@@ -32,6 +32,10 @@ Labbedit usa uma série de projetos de código aberto para funcionar corretament
 - Password: igorlabenu
 - Para acessar os detalhes do post, clique nos comentários, no titulo ou no conteúdo do post.
 
+````
+OBS: API ESTÁ OFF !!
+````
+
  ## Fotos do projeto
  
 ![Captura de tela 2021-12-29 153140](https://user-images.githubusercontent.com/90478654/147701728-67273bdd-54f4-43da-ba72-45181e0370bd.png)
